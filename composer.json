@@ -1,0 +1,22 @@
+{
+  "name": "gearsoftware/yii2-media",
+  "description": "Media Module For Yii2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "José Peña",
+      "email": "joepa37@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2-imagine": "~2.1",
+    "gearsoftware/yii2-core": "~0.1.0",
+    "tinymce/tinymce": "~4.5.0",
+    "2amigos/yii2-file-upload-widget": "~1.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "gearsoftware\\media\\": "src"
+    }
+  }
+}
