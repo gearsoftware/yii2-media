@@ -10,7 +10,7 @@
   ],
   "require": {
     "yiisoft/yii2-imagine": "~2.1",
-    "gearsoftware/yii2-core": "~0.1.0",
+    "gearsoftware/yii2-core": "@dev",
     "tinymce/tinymce": "~4.5.0",
     "2amigos/yii2-file-upload-widget": "~1.0.6"
   },
