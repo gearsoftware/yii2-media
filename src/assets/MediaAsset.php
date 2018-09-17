@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
 
 class MediaAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-media/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-media/src/assets/source';
     public $css = [
         'css/media.css',
     ];

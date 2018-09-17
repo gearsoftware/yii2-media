@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
 
 class FileInputAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-media/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-media/src/assets/source';
 
     public $js = [
         'js/fileinput.js',
